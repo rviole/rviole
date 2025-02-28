@@ -13,7 +13,7 @@ I'm a developer passionate about **mathematics, statistics, and machine learning
 🔹 **Libraries:** NumPy, TensorFlow, Keras, Textual   
 
 ## **📌 My Approach**  
-🔁 **Reinventing the Concept** - Creating from scratch gives a deeper understanding
+💡 **Reinventing the Concept** – Creating from scratch gives a deeper understanding  
 💡 **Understanding First, Optimization Second** – Focus on intuition and correctness  
 🔍 **Showcasing Skills, Not Just Code** – Portfolio-oriented projects  
 🎨 **Code Readability Matters** – Expressing complex ideas clearly  
