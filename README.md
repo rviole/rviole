@@ -1,4 +1,7 @@
 ## **📰 News**
+- 15/03/2025 - First time developed a simple Sequential Dense Network from scratch (**multi** IN, **mutli** OUT).
+- 14/03/2025 - Implemented Mini Batching in NN from scratch (multi IN, single Out) 
+- 13/03/2025 - Implemented Stochastic Gradient Descent in NN from scratch (multi IN, single Out)
 - 10/03/2025 - First time developed an Adam Optimizer from scratch.
 - 05/03/2025 - Launched my website! 🎉 Check it out: ©️[Website](https://rviole.github.io/Portfolio/)
 - 28/02/2025 - First time developed a Momentum-based Optimizer from scratch.
