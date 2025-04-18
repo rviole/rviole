@@ -23,15 +23,15 @@ Also, check out my 📚[Blog](https://machine-learning-journey.hashnode.dev/)
 I'm a developer passionate about **mathematics, statistics, and machine learning**, with a focus on **neural networks, and algorithmic problem-solving**. My projects prioritize **clarity and step-by-step logic** over raw performance, aiming to showcase both functionality and intuition.  
 
 <div align="left" >
-  <a href="https://github.com/giyu51">
+  <a href="https://github.com/rviole">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giyu51&langs_count=10&title_color=0D1117&text_color=ffffff&icon_color=50c878&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20Languages&hide=CSS,HTML,Handlebars,ejs" alt="Top Languages" />
 </a>
 </div>
 
 ## **🛠️ Tech Stack**  
-🔹 **Advanced:** Python  
+🔹 **Advanced:** Python, SQL  
 🔹 **Beginner:** C, HTML, CSS, JavaScript  
-🔹 **Libraries:** NumPy, TensorFlow, Keras, 
+🔹 **Libraries:** NumPy, TensorFlow, Keras
 
 ---
 <br>
