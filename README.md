@@ -10,14 +10,33 @@
 Also, check out my 📚[Blog](https://machine-learning-journey.hashnode.dev/)
 
 ---
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=white&labelColor=darkgreen&color=darkgreen)
+![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv&logoColor=skyblue)
+![TensorFlow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Kivy](https://img.shields.io/badge/Kivy-black?style=for-the-badge&logo=Python&logoColor=brightgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23efd83b?style=for-the-badge&logo=JavaScript&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Arduino-%231f8184?style=for-the-badge&logo=Arduino&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Raspberry%20Pi-%23be3244?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
 
 ## **🩻About**
 I'm a developer passionate about **mathematics, statistics, and machine learning**, with a focus on **neural networks, and algorithmic problem-solving**. My projects prioritize **clarity and step-by-step logic** over raw performance, aiming to showcase both functionality and intuition.  
 
+<div align="left" >
+  <a href="https://github.com/giyu51">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giyu51&langs_count=10&title_color=0D1117&text_color=ffffff&icon_color=50c878&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20Languages&hide=CSS,HTML,Handlebars,ejs" alt="Top Languages" />
+</a>
+</div>
+
 ## **🛠️ Tech Stack**  
 🔹 **Advanced:** Python  
 🔹 **Beginner:** C, HTML, CSS, JavaScript  
-🔹 **Libraries:** NumPy, TensorFlow, Keras, Textual   
+🔹 **Libraries:** NumPy, TensorFlow, Keras, 
+
+---
+<br>
+<br>
+
 
 ## **📌 My Approach**  
 💡 **Reinventing the Concept** – Creating from scratch gives a deeper understanding  
